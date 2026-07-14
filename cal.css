@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+}
+.year{
+    border: 2px solid;
+    padding: 10px;
+    text-align: left;
+    margin: 100px;
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+    
+}
+.month{
+    border: 2px solid;
+    padding: 10px;
+    text-align: left;
+    width: 30%;
+     margin: 100px;
+     margin-top: -90px;
+    align-items: center;
+    justify-content: center;
+}
+table{
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+}
